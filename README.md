@@ -7,7 +7,8 @@ This project is a timer for an activity with a list of history. It's objective i
 - useContext for sharing global state
 - useReducer for manipulating the global state by creating actions
 - react-hook-form for creating user form
-- zod for form validation 
+- zod for form validation
+- styled components for styles
 
 ## How to Run
 
